@@ -82,13 +82,3 @@ Result is displayed in the web app 🎯
 
 Resumes are more than text — they’re career stories.
 This project uses machine learning to decode, categorize, and highlight talent with transparency and fairness.
-
-
-
-
-
-
-
-
-
-ChatGPT
